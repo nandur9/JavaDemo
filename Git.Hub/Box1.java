@@ -1,9 +1,17 @@
 
 public class Box1 {
+	double width; 
+	double height;  
+	double depth;
+	double volume()
+	{
+		return width *height *depth
+	}
+}
 	   
 	
 	
-		double width; 
+		/*double width; 
 		double height;  
 		double depth;
 		  void setDimension(double w,double h,double d) {
