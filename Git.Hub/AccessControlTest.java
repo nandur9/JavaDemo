@@ -3,7 +3,8 @@ public class AccessControlTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-         AccessControlDemo obj1= new AccessControlDemo();
+		
+         AccessControDemo obj1= new AccessControDemo();
 		
 		obj1.a =10;
 		obj1.b =20;
